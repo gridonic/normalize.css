@@ -1,10 +1,9 @@
 {
-  "name": "normalize-css",
-  "description": "A modern alternative to CSS resets",
-  "main": "normalize.css",
+  "name": "normalize-scss",
+  "description": "Sass version of normalize.css",
+  "main": "_normalize.scss",
   "authors": [
-    "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com/)",
-    "Nicolas Gallagher <nicolas@nicolasgallagher.com> (http://nicolasgallagher.com/)"
+    "Gridonic <hello@gridonic.ch> (http://gridonic.ch/)"
   ],
   "license": "MIT",
   "ignore": [
