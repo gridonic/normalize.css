@@ -8,8 +8,13 @@
     "LICENSE.md",
     "_normalize.scss"
   ],
-  "repository": "gridonic/normalize.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gridonic/normalize.scss.git"
+  },
   "license": "MIT",
-  "bugs": "https://github.com/gridonic/normalize.css/issues",
+  "bugs": {
+    "url": "https://github.com/gridonic/normalize.scss/issues"
+  },
   "homepage": "https://necolas.github.io/normalize.css#readme"
 }
